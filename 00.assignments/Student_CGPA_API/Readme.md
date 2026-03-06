@@ -78,12 +78,12 @@ No external database is used; all data is stored inside a JSON array.
 ## 🌐 Sample API URLs
 
 ```
-https://backend-with-nodejs-cmjx.onrender.com/students
-https://backend-with-nodejs-cmjx.onrender.com/students/topper
-https://backend-with-nodejs-cmjx.onrender.com/students/average
-https://backend-with-nodejs-cmjx.onrender.com/students/count
-https://backend-with-nodejs-cmjx.onrender.com/students/3
-https://backend-with-nodejs-cmjx.onrender.com/students/branch/CSE
+https://backend-with-nodejs-5.onrender.com/students
+https://backend-with-nodejs-5.onrender.com/students/topper
+https://backend-with-nodejs-5.onrender.com/students/average
+https://backend-with-nodejs-5.onrender.com/students/count
+https://backend-with-nodejs-5.onrender.com/students/3
+https://backend-with-nodejs-5.onrender.com/students/branch/CSE
 ```
 
 ---
