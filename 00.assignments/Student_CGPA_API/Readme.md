@@ -23,7 +23,7 @@ Public API documentation with requests and sample responses:
 
 API is deployed and publicly accessible:
 
-👉 https://backend-with-nodejs-cmjx.onrender.com
+👉 https://backend-with-nodejs-5.onrender.com
 
 ---
 
